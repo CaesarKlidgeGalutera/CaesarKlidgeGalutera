@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Klidge ✨ Aspiring Data Engineer</h1>
-🎓 I am a **graduating Computer Science student** at the University of Baguio.  <br>
-🚀 I’m passionate about **data, problem-solving, and building impactful solutions** that can help local communities.  <br>
+🎓 I am a graduating Computer Science student at the University of Baguio.  <br>
+🚀 I’m passionate about data, problem-solving, and building impactful solutions that can help local communities.  <br>
 🌱 I enjoy exploring data tools, engineering scalable systems, and contributing to meaningful tech projects.  
 
 

@@ -1,6 +1,7 @@
-<h1>Hi there, I'm Klidge ✨ Aspiring Full-Stack Web Developer</h1>
-<img src="https://visitcount.itsvg.in/api?id=CaesarKlidgeGalutera&label=Profile%20Views&color=12&icon=2&pretty=true"/>
-<p>I am a sophomore student at the University of Baguio currently taking Computer Science. I am passionate about leading, making change and solving real world problems using technologies in local community. </h4>
+<h1>Hi there, I'm Klidge ✨ Aspiring Data Engineer</h1>
+🎓 I am a **graduating Computer Science student** at the University of Baguio.  <br>
+🚀 I’m passionate about **data, problem-solving, and building impactful solutions** that can help local communities.  <br>
+🌱 I enjoy exploring data tools, engineering scalable systems, and contributing to meaningful tech projects.  
 
 
 
@@ -11,10 +12,8 @@
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarKlidgeGalutera&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 
 <br>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GoogleBigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 

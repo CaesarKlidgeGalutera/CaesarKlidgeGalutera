@@ -13,7 +13,8 @@
 
 <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GoogleBigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/GoogleBigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 

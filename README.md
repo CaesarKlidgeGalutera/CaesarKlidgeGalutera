@@ -4,7 +4,7 @@
 I'm a **Data Analyst** passionate about transforming raw data into actionable insights and now stepping into the world of **Data Engineering** to build robust data infrastructure and pipelines that power data-driven decisions.
 
 ## 👨‍💻 About Me
-🎓 Graduating Computer Science student @ University of Baguio with a strong foundation in data structures, algorithms, and databases. <br>
+🎓 Graduated Cum Laude as a Computer Science student @ University of Baguio with a strong foundation in data structures, algorithms, and databases. <br>
 📊 Currently working as a Data Analyst where I develop dashboards and insights using **BigQuery** and **Google Looker Studio**. <br>
 ⚙️ I enjoy designing efficient SQL queries, automating reporting workflows, and collaborating with cross-functional teams. <br>
 🌏 Passionate about data, problem-solving, and building tech-driven solutions for local communities <br>
